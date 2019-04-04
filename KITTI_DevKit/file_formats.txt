@@ -1,0 +1,16 @@
+# error format
+first_frame r_err(rad/m) t_err(%) length(m) speed(m/s)
+
+# path format
+gt.x gt.y re.x re.y
+
+# error plot format
+tl: length(m) ave_t_err(%)
+rl: length(m) ave_r_err(rad/m)
+ts: speed(m/s) ave_t_err(%)
+rs: speed(m/s) ave_r_err(rad/m)
+
+# stats
+tatal_avg_t_err tatal_avg_r_err
+
+
